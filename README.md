@@ -2,8 +2,7 @@
 مصمم/مطور واجهات ومواقع — أعمل على مشاريع ويب بسيطة وسريعة التحميل.
 
 ## المشاريع المُميزة
-- [Project-One](https://github.com/USERNAME/project-one) — وصف موجز (واجهة تفاعلية).
-- [Project-Two](https://github.com/USERNAME/project-two) — وصف موجز (API + frontend).
+- [Project-One](https://pastebin.com/LG3aug6W) —
 
 ## المهارات
 python
