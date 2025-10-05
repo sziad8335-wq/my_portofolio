@@ -2,7 +2,7 @@
 مصمم/مطور واجهات ومواقع — أعمل على مشاريع ويب بسيطة وسريعة التحميل.
 
 ## المشاريع المُميزة
-- [Project-One](https://pastebin.com/LG3aug6W) —
+- [Project-One](https://pastebin.com/LG3aug6W) 
 
 ## المهارات
 python
